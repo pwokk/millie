@@ -9,3 +9,4 @@
 - Learn how to apply a css style document to the audio player.
 - Test what the styled player looks like for all applicable browsers.
 - Ultimately, make millie a comprehensible and customizable project.
+- With this experience, develop an audio player with multi-song and playlist functionality.
