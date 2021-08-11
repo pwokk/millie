@@ -2,7 +2,7 @@
 
 ### millie
 - A base design for native browser audio players. 
-- Written in HTML and CSS. Built in Microsoft Edge.
+- Written in HTML and CSS. Tested first in Microsoft Edge.
 
 ### goals:
 - Examine how the native player looks and works in Chrome, Safari, Edge, Firefox, and Opera.
